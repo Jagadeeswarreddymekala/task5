@@ -1,5 +1,5 @@
 # task5
 
-I perform this use the wireshark in the kali linux . 
+ wireshark powerfull network tool capturing the network traffic.
 wireshark is the perbuilt in the kali linux and it was the easy to use it.
-perfrom the this task i only use the some basics task .
+perfrom the this task i only use the some basics commands .
